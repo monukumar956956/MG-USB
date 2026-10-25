@@ -1,0 +1,6 @@
+{
+  "name": "MG USB Multi-Tool",
+  "description": "Premium dark gaming-style USB-C OTG file manager, storage tester, SHA-256 verifier, Media3 audio player, backup utility, and Android/PC toolkit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

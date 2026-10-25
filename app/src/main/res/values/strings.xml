@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MG USB Multi-Tool</string>
+    <string name="app_subtitle">USB-C OTG &amp; Storage Command Center</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_files">Files</string>
+    <string name="nav_storage">Storage Test</string>
+    <string name="nav_music">Music</string>
+    <string name="nav_tools">Tools</string>
+    <string name="usb_connected">USB OTG Device Detected</string>
+    <string name="usb_not_detected">No USB OTG Hardware Detected</string>
+    <string name="saf_folder_granted">SAF Access Granted</string>
+    <string name="saf_folder_missing">Select USB / Folder via SAF</string>
+    <string name="select_usb_folder">Select USB or Folder</string>
+    <string name="clear_history_confirm_title">Clear Action History?</string>
+    <string name="clear_history_confirm_body">This will permanently remove all local action logs from this device. Your files on Phone and USB will not be affected.</string>
+    <string name="write_test_confirm_title">Run Hardware Read/Write Speed Test?</string>
+    <string name="write_test_confirm_body">This test writes a temporary 4 MB verification file (mg_usb_benchmark_temp.bin) to the selected folder, reads it back with SHA-256 verification, and deletes the temporary file automatically. Never disconnect the USB drive during the test.</string>
+</resources>
